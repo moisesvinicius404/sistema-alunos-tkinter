@@ -32,4 +32,18 @@ Interface com tema escuro e botões coloridos, trazendo um visual moderno e fác
 
 ---
 
+## View
+
+![imagem interface](https://github.com/moisesvinicius404/sistema-alunos-tkinter/blob/master/interface-inicial.png)
+
+![imagem interface](
+https://github.com/moisesvinicius404/sistema-alunos-tkinter/blob/master/interface-cadastra.png)
+
+![imagem interface](
+https://github.com/moisesvinicius404/sistema-alunos-tkinter/blob/master/interface-editar.png)
+
+![imagem interface](https://github.com/moisesvinicius404/sistema-alunos-tkinter/blob/master/interface-ver-aluno.png)
+
+
+
 
